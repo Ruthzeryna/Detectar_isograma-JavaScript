@@ -39,11 +39,11 @@ node Programita detector de isogramas.js
 Ó 
 
 1. Crear archivo con terminacion ".js"
-2. Copiar y pegar el código
-3. Ejecutar el archivo con Node.js
+2. Copia y pega el código
+3. Ejecuta el archivo con Node.js
 
 ```bash
-node Programita detector de isogramas.js
+node nombre del archivo.js
 ```
 
 ## Tecnologías utilizadas
