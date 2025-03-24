@@ -29,7 +29,7 @@ Un isograma es una frase o palabra donde no hay letras duplicadas.
 
 Si de algo te sirve y quieres usarlo, puedes:
 
-1. Clonar este repositorio
+1. Descarga este repositorio
 2. Ejecutar el archivo con Node.js:
 
 ```bash
